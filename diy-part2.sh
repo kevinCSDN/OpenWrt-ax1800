@@ -13,4 +13,4 @@
 # luci-app-argon-config
 # sed -i 's/system/services/g'  package/luci-app-argon-config/luasrc/controller/argon-config.lua
 
-
+rm -rf feeds/luci/themes/luci-theme-argon
