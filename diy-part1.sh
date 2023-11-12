@@ -38,3 +38,4 @@ sed -i '$a src-git kiddin9 https://github.com/kiddin9/openwrt-packages' feeds.co
 
 # Install feeds
 ./scripts/feeds install -a
+rm -rf ./package/lean/ipt2socks
